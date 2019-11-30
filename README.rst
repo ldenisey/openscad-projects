@@ -6,13 +6,20 @@ OpenSCAD projects
 Desk blocks
 -----------
 
-Modular blocks for organising cables behind and below a desk.
+Modular blocks for organizing cables behind and below a desk.
 
 .. figure:: desk-block/.images/Single_block_with_hook.png
 
 .. figure:: desk-block/.images/Single_block.png
 
 .. figure:: desk-block/.images/Joined_blocks.png
+
+Screwable holders
+-----------------
+
+Generic screwable U shape holders.
+
+.. figure:: screwable-holder/.images/screwable_holder.png
 
 Extra
 -----

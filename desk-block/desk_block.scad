@@ -102,8 +102,8 @@ module deskBlock(desk_height, cable_max_diameter, cable_diameter, with_hook, wit
     }
 }
 
-deskBlock(34, 10, 6, false, true, false);
+/*deskBlock(34, 10, 6, false, true, false);
 translate([14, 0, 0]) deskBlock(34, 10, 7, false, false, false);
-translate([14*2, 0, 0]) deskBlock(34, 10, 6, true, false, true);
+translate([14*2, 0, 0]) deskBlock(34, 10, 6, true, false, true);*/
 
-//deskBlock(34, 10, 7, true, true, true);
+deskBlock(34, 10, 7, true, true, true);

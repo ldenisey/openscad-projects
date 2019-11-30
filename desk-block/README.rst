@@ -1,18 +1,18 @@
 Desk blocks
 ===========
 
-.. figure:: .images/Single_block_with_hook.png
-
 Desk blocks designed to be placed between a desk and a wall in order to let cables pass through properly and/or provide hooks below the desk to hold cables.
 
 Multiple blocks can be attach together with guide slots on the sides.
 
 Depending of your need, the cable hole, the hook and the guide slots are optional, the size of the cable hole (if any) is configurable.
 
+.. figure:: .images/Single_block_with_hook.png
+
 Usage
 -----
 
-the :code:`deskBlock` module has the following parameters :
+The :code:`deskBlock` module has the following parameters :
 
 - desk_height (mm) : thickness of your desktop
 - cable_max_diameter (mm) : maximum diameter of cables you will pass in the desk : mandatory to align depth of all the blocks you will print for a given desk
