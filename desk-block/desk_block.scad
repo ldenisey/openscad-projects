@@ -72,7 +72,7 @@ module deskBlock(desk_height, cable_max_diameter, cable_diameter, with_hook, wit
         slot_extra = 0.1;
         difference() {
             union() {
-                translate([- 1, 0, 0]) cube([1, holder_block_depth, holder_block_height - holder_floors_height]);
+                translate([- 1, 0, 0]) cube([1, holder_block_depth, holder_block_height - holder_floors_height - slot_extra]);
                 translate([- 1, holder_block_depth, 0]) cube([1, holder_floors_depth, holder_floors_height]);
             }
             translate([- 1, cable_max_diameter - holder_wall_thickness - 1, - 1]) {

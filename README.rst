@@ -24,4 +24,4 @@ Generic screwable U shape holders.
 Extra
 -----
 
-To ease developments with OpenSCAD, you can try the `IntelliJ OpenSCAD plugin <https://plugins.jetbrains.com/plugin/11198-openscad-language-support>`_.
+To ease developments with OpenSCAD, you can try the `IntelliJ OpenSCAD plugin <https://plugins.jetbrains.com/plugin/11198-openscad-language-support>`_. It handles formatting, syntax highlighting, code completion, rendering and STL file generation with OpenSCAD.
