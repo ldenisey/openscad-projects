@@ -5,7 +5,7 @@ Customizable cylindrical door stopper lock for easy lock/unlock.
 
 Customisation on the diameter of the stopper, door thickness and optional extra space between the bumper and the closed door.
 
-Opened lock without spacer :
+Open lock without spacer :
 
 .. figure:: .images/open.png
 
@@ -13,7 +13,7 @@ Closed lock without spacer :
 
 .. figure:: .images/closed.png
 
-Opened lock with spacer :
+Open lock with spacer :
 
 .. figure:: .images/spacer.png
 
@@ -52,3 +52,8 @@ Useful if you want to lock the door away from the bumper.
 
 stopper_spacer : 1 to generate a spacer, 0 to skip it.
 stopper_spacer_length : Extra length between the bumper and the locked door.
+
+Links
+-----
+
+View it in `thingiverse <https://www.thingiverse.com/thing:4263358>`_.

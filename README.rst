@@ -21,6 +21,13 @@ Generic screwable U shape holders.
 
 .. figure:: screwable-holder/.images/screwable_holder.png
 
+Door stopper lock
+-----------------
+
+Generic door stopper lock.
+
+.. figure:: door-stopper-lock/.images/open.png
+
 Extra
 -----
 
