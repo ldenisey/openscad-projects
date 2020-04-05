@@ -10,13 +10,13 @@ $fn = 100;
  *
  *                 ←-------- w -------→
  *
- * s (mm) : Screw diameter
+ * s (mm) : Screw diameter (default 4 mm)
  * h (mm) : Height
  * w (mm) : Width
  * d (mm) : Depth
  * t (mm) : Thickness of the plastic
  *
- * The dimensions are interior ones, meaning iof w=10 and t=1, external width of the hook is 12 = w + 2 * t
+ * The dimensions are interior ones, meaning if w=10 and t=1, external width of the hook is 12 = w + 2 * t
  */
 module screwableHolder(h, w, d, t = 2, s = 4) {
     difference() {

@@ -28,3 +28,8 @@ Examples
 --------
 
 screwableHolder(h = 38, w = 54, d = 10);
+
+Links
+-----
+
+View it in `thingiverse <https://www.thingiverse.com/thing:4011981>`_.

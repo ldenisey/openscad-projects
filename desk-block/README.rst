@@ -52,3 +52,8 @@ As explained, you can print several single blocks and join them together with th
 
 The value of the translation, here :code:`14`, depends of your configuration. Maximum should be :code:`cable_max_diameter + 4`. You can reduce this number depending of the size of the cable holes and the presence of hooks.
 This example will generate a single piece with 3 cable holes, one with a hook, guide slot on each sides.
+
+Links
+-----
+
+View it in `thingiverse <https://www.thingiverse.com/thing:3995448>`_.
