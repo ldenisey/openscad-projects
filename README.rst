@@ -28,6 +28,14 @@ Generic door stopper lock.
 
 .. figure:: door-stopper-lock/.images/open.png
 
+RV push-lock spacer
+-------------------
+
+Customizable spacer for standard RV push locks to align buttons when mounted on doors when different thickness or curve.
+
+.. figure:: RV-pushlock-spacer/.images/cura.png
+.. figure:: RV-pushlock-spacer/.images/IMG_20220530_112236.jpg
+
 Extra
 -----
 

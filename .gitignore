@@ -1,4 +1,9 @@
 /Parametric
 /*.iml
 *.stl
+*.skp
+*.skb
 *.gcode
+/.idea
+/hanging-screwable-holder/hanging.skb
+/out/
